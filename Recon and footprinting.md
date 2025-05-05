@@ -7,7 +7,16 @@ It will include both publicly available information (socials,google,etc..)and lo
 
 
 Stuff you need to figure out 
-![[Pasted image 20241222145639.png]]
+
+1.Who is the target ?
+
+2. What is the target ?
+
+3. Where is the target ?
+
+4. When is the best time for recon ?
+
+5. How to infiltrate ?
 
 And it’s always recommended to use an report gathering template to record the data you find during the investigation (recon and footprinting)
 
